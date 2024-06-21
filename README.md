@@ -26,6 +26,9 @@ Para o passo 4, as seguintes variáveis devem ser configuradas:
 
 # Referências
 BERTimbau - https://huggingface.co/neuralmind/bert-base-portuguese-cased
+
 ASSIN - http://nilc.icmc.usp.br/assin/
+
 ASSIN 2 - https://sites.google.com/view/assin2/
+
 Porttagger -  https://huggingface.co/spaces/Emanuel/porttagger
